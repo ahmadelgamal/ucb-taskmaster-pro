@@ -27,7 +27,7 @@ The app already had `Initial Features` provided at the beginning of the project,
 
 https://github.com/ahmadelgamal/ucb-taskmaster-pro/
 
-## GitHub Pages URL
+## Deployment URL (GitHub Pages)
 
 https://ahmadelgamal.github.io/ucb-taskmaster-pro/
 
