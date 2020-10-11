@@ -37,4 +37,5 @@ https://ahmadelgamal.github.io/ucb-taskmaster-pro/
 - CSS
 - JavaScript
 - jQuery
+- jQuery UI
 - Bootstrap
